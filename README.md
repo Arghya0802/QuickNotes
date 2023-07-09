@@ -1,16 +1,17 @@
-# test
+# QuickNotes
 
-A new Flutter project.
+QuickNotes is a project aimed at creating a clone of Google Keep, a popular note-taking application built using Flutter and Dart. This project provides a simple and intuitive interface for users to create and manage their notes efficiently. With QuickNotes, you can easily jot down your thoughts, create to-do lists, set reminders, and organize your notes with labels.
 
-## Getting Started
+# Features
+- Note Creation: Users can quickly create new notes by typing or pasting text into the note editor. The user-friendly interface allows for a seamless note-taking experience.
 
-This project is a starting point for a Flutter application.
+- Delete: Users can easily delete the last note they have added.
 
-A few resources to get you started if this is your first Flutter project:
+Multi-platform Support: QuickNotes is designed to be compatible with various platforms, including desktops, tablets, and mobile devices. You can access your notes and use the application seamlessly across different devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Syncing: The application synchronizes your notes in real-time, ensuring that your data is up to date across all your devices. Whether you create a note on your phone or desktop, it will be available on all other platforms instantly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Installation
+To use QuickNotes, follow these steps:
+
+Clone the repository from GitHub: git clone https://github.com/Arghya0802/quicknotes.git
