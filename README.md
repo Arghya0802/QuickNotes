@@ -1,6 +1,6 @@
 # QuickNotes
 
-QuickNotes is a project aimed at creating a clone of Google Keep, a popular note-taking application built using Flutter and Dart. This project provides a simple and intuitive interface for users to create and manage their notes efficiently. With QuickNotes, you can easily jot down your thoughts, create to-do lists, set reminders, and organize your notes with labels.
+QuickNotes is a project aimed at creating a clone of Google Keep, a popular note-taking application built using Flutter and Dart. This project provides a very simple and intuitive interface for users to create and manage their notes efficiently. With QuickNotes, you can easily jot down your thoughts, create to-do lists, set reminders, and organize your notes with labels.
 
 Website: https://keep-dde22.web.app/#/
 
